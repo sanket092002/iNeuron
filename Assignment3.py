@@ -67,6 +67,6 @@ Ans: Place that line in try block and place an 'except Exception as e' block.
 14. What is the purpose of the try clause? What is the purpose of the except clause?
 
 Ans: Try clause mainly contains that piece of code which can potentially run into errors if the data is not standard.
-     Except clause contains that piece of code which handle those potential errors, and show the kind of errors without interruption of the whole program.
+     Except clause contains that piece of code which handle those potential errors without interruption of the whole program.
 """
 
